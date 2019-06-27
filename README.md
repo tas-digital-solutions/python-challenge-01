@@ -60,7 +60,7 @@ Ability to target the number of flips of the target side in a row, for the progr
 A timer using timeit, to determine how long the program took (see example below) 
 (Here is some source code to get started) 
 
-'''python
+```python
 import random 
 import timeit 
   
